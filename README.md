@@ -131,10 +131,14 @@ Sin este material dieléctrico, el condensador entra en cortocircuito, y si la c
 
 ![2112](https://user-images.githubusercontent.com/93951775/149837845-408e94e4-a3e8-468d-8bc0-c6de2ce8048e.JPG)
 
+a) 1 + 2.2 = 3.2
+b) 1/(1/100 + 1/560 + 1/390) = 100.00
+c) 1/(1/10 + 1/4.7 + 1/47 + 1/22) = 10.27
+
 23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V.
 El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 
-
+el valor de capacito desconocido es de 0.5 mF
 
 25. Determine la CT para cada circuito de la figura 12-71.
 
