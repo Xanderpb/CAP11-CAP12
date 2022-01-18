@@ -16,6 +16,14 @@ NRC: 10149
 
 ## 2. Marco teorico
 
+![1](https://user-images.githubusercontent.com/93224166/149871415-a637a5f1-fe94-49b6-9be7-6f2176a40a4e.png)
+![2](https://user-images.githubusercontent.com/93224166/149871418-8c1deff8-c6ff-4625-b4f6-447947dfb30e.png)
+![2 1](https://user-images.githubusercontent.com/93224166/149871417-0ca3f618-64e9-4270-acbe-1ba0d207c195.png)
+
+![3](https://user-images.githubusercontent.com/93224166/149871419-a1e7d924-1574-43e6-a3f3-47f284e85cb6.png)
+![4](https://user-images.githubusercontent.com/93224166/149871422-83b1e621-7df0-4798-aa28-2221a0cea31e.png)
+
+
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
 
@@ -42,38 +50,6 @@ NRC: 10149
 
 
 ![37](https://user-images.githubusercontent.com/93928146/149858817-312bdfe7-0003-43bf-ab71-985e5b69e9e6.PNG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -139,7 +115,85 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 25. Determine la CT para cada circuito de la figura 12-71.
 
+![25](https://user-images.githubusercontent.com/93224166/149871424-bbb26f86-d0ec-487f-b035-8aad4d538311.png)
+
+![eje25](https://user-images.githubusercontent.com/93224166/149871437-7193bacf-44e7-44a2-942d-50ff96853d22.png)
+
 ![2512](https://user-images.githubusercontent.com/93951775/149837851-dcc24a32-bbf5-4f7c-9e43-d63da7227691.JPG)
+
+**27. Determine la CT para cada circuito de la figura 12-72. **
+
+![27,43](https://user-images.githubusercontent.com/93224166/149871425-79641195-9986-4a28-91b4-9cb7da602327.png)
+
+![eje27](https://user-images.githubusercontent.com/93224166/149871438-2b17b24e-aa91-40d6-b818-4fa0baf952e5.png)
+
+**29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados. (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente? (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?**
+
+![eje29](https://user-images.githubusercontent.com/93224166/149871440-8faacf91-d71c-45cd-866f-5c83510245e6.png)
+
+**31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:** 
+
+![eje31](https://user-images.githubusercontent.com/93224166/149871443-ea397a21-5732-44ab-9f0c-1ffb71516a86.png)
+
+**33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?**
+
+![33](https://user-images.githubusercontent.com/93224166/149871426-0cc55012-9a20-4dab-8526-2e732167ce81.png)
+
+![eje33](https://user-images.githubusercontent.com/93224166/149871444-81e00d79-c8e9-4335-bcda-555d1246654f.png)
+
+**35. Repita el problema 33 con los siguientes tiempos:**
+
+
+
+
+![eje35](https://user-images.githubusercontent.com/93224166/149871446-e9e20b95-323c-483b-bf94-4e1162fd0dcb.png)
+
+**37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?**
+
+![37](https://user-images.githubusercontent.com/93224166/149871428-63b4bfcf-7739-4488-9eeb-6be6863007d6.png)
+
+![eje37](https://user-images.githubusercontent.com/93224166/149871406-e774f081-8ab5-42a2-8350-ebb0debed589.png)
+
+
+**39. Determine la constante de tiempo para el circuito de la figura 12-77**
+
+![39](https://user-images.githubusercontent.com/93224166/149871430-68cd6aa8-d61c-4948-8dbf-f10070a7ab90.png)
+
+![eje39](https://user-images.githubusercontent.com/93224166/149871409-e308cc0a-c906-4bbf-820b-0a4a4414ac8c.png)
+
+**43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.**
+
+![27,43](https://user-images.githubusercontent.com/93224166/149871425-79641195-9986-4a28-91b4-9cb7da602327.png)
+
+![eje43](https://user-images.githubusercontent.com/93224166/149871411-73e8c55f-3a8c-4b75-b1bd-c3d1b85a643c.png)
+
+**45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?**
+
+![eje45](https://user-images.githubusercontent.com/93224166/149871413-8f3a8157-87f1-4058-a301-c09c6b8743a6.png)
+
+**47. Determine la potencia verdadera y la potencia reactiva en el problema 46.**
+
+![eje47](https://user-images.githubusercontent.com/93224166/149871414-b734c949-12ce-4fa0-be14-2fb24d18496f.png)
+
+**49. Determine el valor de C1 en la figura 12-82.**
+
+![49](https://user-images.githubusercontent.com/93224166/149871434-9636df12-3a7b-4399-bfbb-f2f352286adb.png)
+
+* La Capacidad de C1 es de 0.00541 micro F
+
+**51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+**
+
+![51](https://user-images.githubusercontent.com/93224166/149871994-b98919e0-8c1e-488f-b97e-b9a1e7106e74.png)
+* El voltaje de fluctacion se ve afectado poruq se reduce.
+
+
+
+
+
+
+
+
 
 
 ## 4. Video 
