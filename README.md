@@ -119,7 +119,6 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 ![eje25](https://user-images.githubusercontent.com/93224166/149871437-7193bacf-44e7-44a2-942d-50ff96853d22.png)
 
-![2512](https://user-images.githubusercontent.com/93951775/149837851-dcc24a32-bbf5-4f7c-9e43-d63da7227691.JPG)
 
 **27. Determine la CT para cada circuito de la figura 12-72. **
 
@@ -181,11 +180,10 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 * La Capacidad de C1 es de 0.00541 micro F
 
-**51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
-**
+**51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?**
 
 ![51](https://user-images.githubusercontent.com/93224166/149871994-b98919e0-8c1e-488f-b97e-b9a1e7106e74.png)
-* El voltaje de fluctacion se ve afectado poruq se reduce.
+* El voltaje de fluctacion se ve afectado porque se reduce.
 
 
 
