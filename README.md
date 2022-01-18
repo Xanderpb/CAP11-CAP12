@@ -18,6 +18,67 @@ NRC: 10149
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+
+
+![1-3-5-7-9](https://user-images.githubusercontent.com/93928146/149858773-834c189e-1767-44e2-a346-d4e62888d539.PNG)
+
+
+![11-13-15](https://user-images.githubusercontent.com/93928146/149858781-839cd9d1-f8fb-4261-a6a2-2d97095941e1.PNG)
+
+
+![17-19](https://user-images.githubusercontent.com/93928146/149858786-f29f2b62-d0ea-4761-a39d-8f4109a14f46.PNG)
+
+
+![21-23](https://user-images.githubusercontent.com/93928146/149858791-fc270520-2e7e-469b-827c-021fe0ac9008.PNG)
+
+
+![25-27](https://user-images.githubusercontent.com/93928146/149858796-b5195fa4-bd4a-47b4-a38b-fc73dc5a80b8.PNG)
+
+
+![29-31-33](https://user-images.githubusercontent.com/93928146/149858807-0668e705-ce73-491a-b093-51ade4fb46cb.PNG)
+
+
+![35](https://user-images.githubusercontent.com/93928146/149858810-de543343-33bb-4dab-b5f4-1c2c846fdf2f.PNG)
+
+
+![37](https://user-images.githubusercontent.com/93928146/149858817-312bdfe7-0003-43bf-ab71-985e5b69e9e6.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
 
 ![3911](https://user-images.githubusercontent.com/93951775/149837801-6e547a20-4e0a-4c29-b2b9-bab200987818.JPG)
