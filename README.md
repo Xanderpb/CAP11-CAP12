@@ -10,10 +10,18 @@ NRC: 10149
 ### TEMA: 
 
 ## 1. Objetivos
+
 ### Objetivo general
+* Determinar los diversos valores de voltaje y corriente de una onda seno, mediante el uso del osciloscopio paraque analicemos su onda sinusoidal.
+* Describir y analizar la construcción y las características básicas de un capacitor mediante el conportamiento en un circuito en serie y en paralelo, tambien sus utilidades en la industria.
 
 ### Objetivos especificos
-
+* Describir cómo se generan las ondas seno 
+* Aplicar las leyes de circuito básicas a circuitos de
+CA resistivos
+* Analizar capacitores en serie
+* Analizar capacitores en paralelo
+* Examinar algunas aplicaciones de los capacitores
 ## 2. Marco teorico
 
 ![1](https://user-images.githubusercontent.com/93224166/149871415-a637a5f1-fe94-49b6-9be7-6f2176a40a4e.png)
@@ -230,5 +238,15 @@ el valor de capacito desconocido es de 0.5 mF
 ## 4. Video 
 
 ## 5. Conclusiones
+* Un ciclo de una onda seno va del cruce por cero a través de un pico positivo, luego a través de cero hasta un pico negativo y de regreso al cruce por cero.
+* La rapidez y la frecuencia son directamente proporcionales.
+* En el osciloscopio el voltaje se mide verticalmente, el tiempo se mide horizontalmente. 
+* La Capacitancia es la capacidad de guardar carga.
+* Los capacitores se clasifican según el material dieléctrico.
+* Cuando se conecta un capacitor polarizado, debemos asegurarnos de que el voltaje nominal es suficiente. Conecte el extremo positivo al lado positivo del c
+* El capacitor de acoplamiento impide que la fuente afecte el voltaje de cd, pero deja pasar la señal de entrada
 
 ## 6. Bibliografia
+
+Principios de circuitos eléctricos. Octava edición
+PEARSON EDUCACIÓN, México, 2007
