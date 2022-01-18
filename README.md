@@ -76,10 +76,20 @@ valor pico y la frecuencia de la señal de entrada desconocida.
 (b) Determine la carga cuando C _ 0.001 mF y V _ 1 kV.
 (c) Determine el voltaje cuando Q _ 2 mC y C _ 200 mF.
 
+
+
 3. Transforme los siguientes valores de picofarads a microfarads:
-(a) 1000 pF (b) 3500 pF (c) 250 pF
+(a) 1000 pF (b) 3500 pF (c) 250 
+
+* 1 000 Picofaradio [pF] = 0,001 Microfaradio [µF]
+* 3 500 Picofaradio [pF] = 0,003 5 Microfaradio [µF]
+* 250 Picofaradio [pF] = 0,000 25 Microfaradio [µF]
 
 5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+W = (CV2/2)
+= 1(500*500)/2
+= 500 J
 
 7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3
 para obtener los valores de er.
@@ -95,8 +105,15 @@ de capacitancia provocará un incremento de 25°C en la temperatura?
 
 15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
 
+Capacitores de cerámica Los dieléctricos de cerámica proporcionan constantes dieléctricas
+muy altas (1200 es un valor típico)
+
 17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros
 capacitores?
+
+electrolíticos (óxido de aluminio y óxido de tantalio).
+Al contrario que la mayoría de los condensadores, los electrolíticos tienen polaridad. 
+Sin este material dieléctrico, el condensador entra en cortocircuito, y si la corriente es excesiva, el electrolito puede hervir y hacer explotar el condensador.
 
 
 
@@ -105,6 +122,8 @@ capacitores?
 ![1912](https://user-images.githubusercontent.com/93951775/149837836-73b8b300-c54e-4b6a-aa89-ddf606f550f1.JPG)
 
 21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
+
+![2112](https://user-images.githubusercontent.com/93951775/149837845-408e94e4-a3e8-468d-8bc0-c6de2ce8048e.JPG)
 
 23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V.
 El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
