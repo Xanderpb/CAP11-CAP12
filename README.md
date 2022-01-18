@@ -70,13 +70,19 @@ CA resistivos
 
 ![3911](https://user-images.githubusercontent.com/93951775/149837801-6e547a20-4e0a-4c29-b2b9-bab200987818.JPG)
 
+![39-11](https://user-images.githubusercontent.com/93951775/149957613-19748ad5-e419-45df-83a8-5b2a85add108.JPG)
+
 41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
+
+
+![41-11](https://user-images.githubusercontent.com/93951775/149957110-b2a1f035-72a6-489e-9bb4-49d50e571bd4.JPG)
 
 43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la
 figura 11-89.
 
-
 ![4311](https://user-images.githubusercontent.com/93951775/149837809-f403e2d4-aa5a-4fb7-9793-56a79a73908d.JPG)
+
+valor pico 3(0.2v)=600mV             Periodo  10(50)=500ms
 
 *45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el
 valor pico y la frecuencia de la señal de entrada desconocida.
