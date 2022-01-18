@@ -95,10 +95,16 @@ W = (CV2/2)
 para obtener los valores de er.
 (a)	aire (b) aceite (c) vidrio (d) Teflón®
 
+![4-12](https://user-images.githubusercontent.com/93951775/149935981-e3025443-91e9-4ef6-930d-247953318833.JPG)
+
 9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5_ 10_4 m. Calcule la capacitancia.
+
+![9-12](https://user-images.githubusercontent.com/93951775/149935987-640d6aad-95df-4faf-af0b-be159bd0b09b.JPG)
 
 11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las
 placas con un dieléctrico de papel (er _ 2.5) de 8 _ 10_5 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+![11-12](https://user-images.githubusercontent.com/93951775/149936013-4890172c-347e-46d7-bf7e-635702d67094.JPG)
 
 13. Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio
 de capacitancia provocará un incremento de 25°C en la temperatura?
