@@ -24,6 +24,9 @@ CA resistivos
 * Examinar algunas aplicaciones de los capacitores
 ## 2. Marco teorico
 
+![11-10](https://user-images.githubusercontent.com/93951775/149955988-72eb4fe5-e511-4e12-8d89-636ad739bacf.jpeg)
+![12-1](https://user-images.githubusercontent.com/93951775/149955433-775c7edc-67d7-4bfa-9212-eb6a7cf0d7a4.jpeg)
+![12-2](https://user-images.githubusercontent.com/93951775/149955443-6886cc98-8292-426f-9ecc-2fd98574c749.jpeg)
 ![1](https://user-images.githubusercontent.com/93224166/149871415-a637a5f1-fe94-49b6-9be7-6f2176a40a4e.png)
 ![2](https://user-images.githubusercontent.com/93224166/149871418-8c1deff8-c6ff-4625-b4f6-447947dfb30e.png)
 ![2 1](https://user-images.githubusercontent.com/93224166/149871417-0ca3f618-64e9-4270-acbe-1ba0d207c195.png)
