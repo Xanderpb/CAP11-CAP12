@@ -99,7 +99,6 @@ de capacitancia provocará un incremento de 25°C en la temperatura?
 capacitores?
 
 
-![1712](https://user-images.githubusercontent.com/93951775/149837828-7834961d-0b61-452a-9333-b5854511e3d4.JPG)
 
 19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
 
@@ -111,7 +110,6 @@ capacitores?
 El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 
 
-![2112](https://user-images.githubusercontent.com/93951775/149837845-408e94e4-a3e8-468d-8bc0-c6de2ce8048e.JPG)
 
 25. Determine la CT para cada circuito de la figura 12-71.
 
