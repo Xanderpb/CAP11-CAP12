@@ -128,6 +128,11 @@ Sin este material dieléctrico, el condensador entra en cortocircuito, y si la c
 
 ![1912](https://user-images.githubusercontent.com/93951775/149837836-73b8b300-c54e-4b6a-aa89-ddf606f550f1.JPG)
 
+* 200 pF
+* 40 uF
+* 0 pF
+* 22 pF
+
 21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
 
 ![2112](https://user-images.githubusercontent.com/93951775/149837845-408e94e4-a3e8-468d-8bc0-c6de2ce8048e.JPG)
