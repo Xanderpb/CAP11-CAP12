@@ -77,6 +77,7 @@ valor pico y la frecuencia de la señal de entrada desconocida.
 (c) Determine el voltaje cuando Q _ 2 mC y C _ 200 mF.
 
 
+![1-12](https://user-images.githubusercontent.com/93951775/149941169-1a769c55-89c7-4dff-9ed5-a1be88e84d9a.JPG)
 
 3. Transforme los siguientes valores de picofarads a microfarads:
 (a) 1000 pF (b) 3500 pF (c) 250 
