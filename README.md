@@ -89,6 +89,9 @@ valor pico y la frecuencia de la señal de entrada desconocida.
 
 ![4511](https://user-images.githubusercontent.com/93951775/149837818-60159f8b-816c-4335-b830-15d725671d1d.JPG)
 
+
+![45-11](https://user-images.githubusercontent.com/93951775/149958352-98b34411-cab2-4981-bd50-5a71d1a76e99.JPG)
+
 1. (a) Encuentre la capacitancia cuando Q _ 50 mC y V _ 10 V.
 (b) Determine la carga cuando C _ 0.001 mF y V _ 1 kV.
 (c) Determine el voltaje cuando Q _ 2 mC y C _ 200 mF.
